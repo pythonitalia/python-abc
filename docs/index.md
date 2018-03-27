@@ -29,7 +29,7 @@ Prima di voler scrivere un qualunque programma con Python è necessario conoscer
 
 Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
 
-* [Come usare Python](Pyllole/Use_Python.md)
+* [Come usare Python](Pyllole/Use_Python.md) - [Ambiente di sviluppo](Pyllole/Development_Environment.md)
 * [Sintassi di base](Pyllole/Syntax.md)
 * [Le variabili](Pyllole/Variables.md)
 * [Print](Pyllole/Print.md) - [Input](Pyllole/Input.md) - [If/Else](Pyllole/If-Else.md) - [Cicli](Pyllole/Loops.md)
