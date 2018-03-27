@@ -1,5 +1,5 @@
 
-# Stringhe - Tipi e Operatori 
+# Tipi: Stringhe
 
 Le stringhe sono insiemi di caratterie, frasi, racchiuse tra apici `'` o doppi apici `"`.
 

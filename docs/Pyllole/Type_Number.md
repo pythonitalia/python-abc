@@ -1,4 +1,4 @@
-# Numeri - Tipi e Operatori 
+# Tipi: Numeri
 
 I numeri possono essere interi `int` o decimali `float`, i decimali vengono rappresentati con il punto come separazione tra la parte intera e quella decimale.
 Python 3 ha anche altri tipi numerici, come le frazione e i numeri complessi, ma in questa breve introduzione non verranno trattati.

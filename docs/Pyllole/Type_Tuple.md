@@ -1,4 +1,4 @@
-# Tuple - Tipi e Operatori 
+# Tipi: Tuple 
 
 _Prima di studiare le tuple assicurati di conoscere le [liste](Type_List.md)._
 

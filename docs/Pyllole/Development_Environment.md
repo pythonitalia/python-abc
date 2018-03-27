@@ -37,7 +37,7 @@ Tra i due `nano` è probabilmente il più semplice, si scrive direttamente sul "
 
 * [Sublime Text](https://www.sublimetext.com/)
 * [Atom](https://atom.io)
-* [visual Studio Code](https://code.visualstudio.com)
+* [Visual Studio Code](https://code.visualstudio.com)
 
 ## IDE
 

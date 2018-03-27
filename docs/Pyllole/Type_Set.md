@@ -1,4 +1,4 @@
-# Set - Tipo e Operatori 
+# Tipi: Set
 
 _Prima di studiare i set assicurati di conoscere le [liste](Type_List.md)._
 

@@ -1,4 +1,4 @@
-# Liste - Tipi e Operatori 
+# Tipi: Liste
 
 Se immagini una variabile come una scatola in cui puoi mettere un contenuti, una lista la puoi immaginare come una fila di box.
 

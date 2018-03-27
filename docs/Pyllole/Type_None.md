@@ -1,4 +1,4 @@
-# None 
+# Tipi: None 
 
 `None` è un particolare tipo di dato che indica un valore nullo, l'assenza di dati. 
 `None` non è uguale a `False`, non è `0` e non è una string vuota. 

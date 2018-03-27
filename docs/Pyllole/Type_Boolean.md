@@ -1,4 +1,4 @@
-# Boolean - Tipi e Operatori 
+# Tipi: Boolean
 
 I valori booleani `True` e `False` sono primitive del linguaggio e si scrivono sempre con la prima lettera maiuscola.
 

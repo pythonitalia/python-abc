@@ -1,4 +1,4 @@
-# Dizionari - Tipo e Operatori 
+# Tipi: Dizionari
 
 _Prima di studiare i dizionari assicurati di conoscere le [liste](Type_List.md)._
 
