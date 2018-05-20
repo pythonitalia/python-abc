@@ -21,14 +21,12 @@ Prima di voler scrivere un qualunque programma con Python è necessario conoscer
   * Documentazione ufficiale
      * [Cos'è Python - FAQ](http://python.it/doc/faq/)
      * [Punto di partenza per principianti](http://python.it/doc/newbie/)
-  * [Installare Python - html.it](http://www.html.it/pag/15609/installare-python/)
-  * [Come installare e usare Python su Windows](https://gist.github.com/ricpol/2ca0ae46f02bfddf08036fa85519aa97)
-  * [Come installare pacchetti Python in Windows](https://gist.github.com/ricpol/2ca0ae46f02bfddf08036fa85519aa97)
 
 ## Pyllole
 
 Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
 
+* [Installare Python](Pyllole/00_Install.md)
 * [Come usare Python](Pyllole/01_Use_Python.md) - [Ambiente di sviluppo](Pyllole/05_Development_Environment.md)
 * [Sintassi di base](Pyllole/11_Syntax.md)
 * [Le variabili](Pyllole/21_Variables.md)
@@ -57,10 +55,12 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
           * [Tutorial - PDF](http://docs.python.it/paper-a4/tut.pdf)
       * eBook: [Immersione in Python 3](http://gpiancastelli.altervista.org/dip3-it/) - [PDF](http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip)
       * eBook: [ThinkPython](https://github.com/AllenDowney/ThinkPythonItalian/) -[PDF](https://github.com/AllenDowney/ThinkPythonItalian/blob/master/thinkpython_italian.pdf)
+      * Guida: [Guida Python di HTML.IT](http://www.html.it/guide/guida-python/)
 
   * INGLESE
 
       * [Python 3 Official Documentation](https://docs.python.org/3/download.html)
+      * [Python 3 Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
       * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
       * [A Byte of Python (Tutorial)](https://python.swaroopch.com/first_steps.html)
       * [CodeCademy: Python (Tutorial)](https://www.codecademy.com/learn/python)
