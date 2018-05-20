@@ -1,6 +1,3 @@
 theme: jekyll-theme-architect 
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  hard_wrap: false
+title: Python ABC
+description: Se vuoi imparare Python parti dall'ABC

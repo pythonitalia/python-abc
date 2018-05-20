@@ -29,24 +29,24 @@ Prima di voler scrivere un qualunque programma con Python è necessario conoscer
 
 Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
 
-* [Come usare Python](Pyllole/Use_Python.md) - [Ambiente di sviluppo](Pyllole/Development_Environment.md)
-* [Sintassi di base](Pyllole/Syntax.md)
-* [Le variabili](Pyllole/Variables.md)
-* [Print](Pyllole/Print.md) - [Input](Pyllole/Input.md) - [If/Else](Pyllole/If-Else.md) - [Cicli](Pyllole/Loops.md)
-* [Numeri](Pyllole/Type_Number.md) - [Stringhe](Pyllole/Type_String.md) - [Booleani](Pyllole/Type_Boolean.md) - [None](Pyllole/Type_None.md)
-* [Liste](Pyllole/Type_List.md) - [Tuple](Pyllole/Type_Tuple.md) - [Set](Pyllole/Type_Set.md) - [Dizionari](Pyllole/Type_Dictionary.md)
-* [Try/Except](Pyllole/Try_Except.md)
-* [Funzioni](Pyllole/Functions.md) - [Moduli](Pyllole/Modules.md)
-* [Iterabili](Pyllole/Iterable.md) - [List Comprehension](Pyllole/List_Comprehension.md)
-* [Classi](Pyllole/Classes.md) - [Ereditarietà](Pyllole/Inheritance.md) - [Ereditarietà Multipla](Pyllole/Inheritance_Multiple.md)
+* [Come usare Python](Pyllole/01_Use_Python.md) - [Ambiente di sviluppo](Pyllole/05_Development_Environment.md)
+* [Sintassi di base](Pyllole/11_Syntax.md)
+* [Le variabili](Pyllole/21_Variables.md)
+* [Print](Pyllole/23_Print.md) - [Input](Pyllole/25_Input.md) - [If/Else](Pyllole/27_If-Else.md) - [Cicli](Pyllole/Loops.md)
+* [Numeri](Pyllole/41_Type_Number.md) - [Stringhe](Pyllole/42_Type_String.md) - [Booleani](Pyllole/43_Type_Boolean.md) - [None](Pyllole/44_Type_None.md)
+* [Liste](Pyllole/53_Type_List.md) - [Tuple](Pyllole/55_Type_Tuple.md) - [Set](Pyllole/57_Type_Set.md) - [Dizionari](Pyllole/59_Type_Dictionary.md)
+* [Try/Except](Pyllole/61_Try_Except.md)
+* [Funzioni](Pyllole/63_Functions.md) - [Moduli](Pyllole/65_Modules.md)
+* [Iterabili](Pyllole/71_Iterable.md) - [List Comprehension](Pyllole/75_List_Comprehension.md)
+* [Classi](Pyllole/81_Classes.md) - [Ereditarietà](Pyllole/83_Inheritance.md) - [Ereditarietà Multipla](Pyllole/85_Inheritance_Multiple.md)
 
 
 ## Strumenti online
 
+  * Per condividere il tuo codice, in un forum o chat, usa un servizio per la condivisione del codice
+     * [hastebin](https://hastebin.com) - [arin.ga](https://arin.ga) - [dpaste.de](https://dpaste.de)
   * Puoi provare il tuo codice, senza installare nulla sul tuo PC, usando un compilatore online
      * [Judge0 IDE](https://ide.judge0.com) - [repl.it](https://repl.it/)
-  * Per condividere il tuo codice, in un forum o chat, usa un servizio per la condivisione del codice
-     * [Pastebin](https://pastebin.com) -  [hastebin](https://hastebin.com) - [dpaste.de](https://dpaste.de) - [arin.ga](https://arin.ga)
 
 ## Documentazione Gratuita
 
