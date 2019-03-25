@@ -30,7 +30,7 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
 * [Come usare Python](Pyllole/01_Use_Python.md) - [Ambiente di sviluppo](Pyllole/05_Development_Environment.md)
 * [Sintassi di base](Pyllole/11_Syntax.md)
 * [Le variabili](Pyllole/21_Variables.md)
-* [Print](Pyllole/23_Print.md) - [Input](Pyllole/25_Input.md) - [If/Else](Pyllole/27_If-Else.md) - [Cicli](Pyllole/Loops.md)
+* [Print](Pyllole/23_Print.md) - [Input](Pyllole/25_Input.md) - [If/Else](Pyllole/27_If-Else.md) - [Cicli](Pyllole/29_Loops.md)
 * [Numeri](Pyllole/41_Type_Number.md) - [Stringhe](Pyllole/42_Type_String.md) - [Booleani](Pyllole/43_Type_Boolean.md) - [None](Pyllole/44_Type_None.md)
 * [Liste](Pyllole/53_Type_List.md) - [Tuple](Pyllole/55_Type_Tuple.md) - [Set](Pyllole/57_Type_Set.md) - [Dizionari](Pyllole/59_Type_Dictionary.md)
 * [Try/Except](Pyllole/61_Try_Except.md)
@@ -44,7 +44,7 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
   * Per condividere il tuo codice, in un forum o chat, usa un servizio per la condivisione del codice
      * [hastebin](https://hastebin.com) - [arin.ga](https://arin.ga) - [dpaste.de](https://dpaste.de)
   * Puoi provare il tuo codice, senza installare nulla sul tuo PC, usando un compilatore online
-     * [Judge0 IDE](https://ide.judge0.com) - [repl.it](https://repl.it/)
+     * [Judge0 IDE](https://ide.judge0.com) - [trinket.io](https://trinket.io) - [repl.it](https://repl.it/)
 
 ## Documentazione Gratuita
 
