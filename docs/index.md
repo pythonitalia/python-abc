@@ -86,6 +86,8 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
 
 * ### Video Corsi e Tutorial
   * ITALIANO
+      * [Python Corso Completo da Principiante ad Esperto](https://www.youtube.com/playlist?list=PLPiw9JurwQWAVqTEQbaY_49lttkuLml0B)
+      * [Corsidiprogrammazione.it - Video Corsi e Blog su Python](https://corsidiprogrammazione.it/category/python/)
       * [Video Corso Python 3 - Impara a Programmare in Python 3.6](https://www.youtube.com/playlist?list=PLHUQL6-_n9Zes1VLMgJbLa8IIOHT9x4Nu)
       * [Python 3.6 Tutorial Italiano - Programmazione a Oggetti - Classi e Istanze](https://www.youtube.com/watch?v=nmoJf-Ei4TA&list=PLHUQL6-_n9ZdD3JMKg4On4NFh8bBg3Ckn)
       * [ProgrammareInPython.it - Video Corsi e Esercizi](https://www.programmareinpython.it/programmare-in-python/)
