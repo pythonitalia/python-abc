@@ -138,7 +138,7 @@ Eseguendo il file `prova.py` viene generato il file `prova.pyc` che, per spiegar
 
 ### Sintassi e stile di scrittura
 
-Consulta la pagina relativa alla [sintassi di base](Syntax.md) per cominciare a conoscere il linguaggio python.
+Consulta la pagina relativa alla [sintassi di base](11_Syntax.md) per cominciare a conoscere il linguaggio python.
 
 Anche se al momento è prematuro, sappi che in Python anche lo stile di scritture del codice è importante ed è definito nel [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/).
 
