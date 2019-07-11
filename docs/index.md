@@ -81,6 +81,7 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
           * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
       * Tutorial
         * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
+        * [Python 3 Module of the Week](https://pymotw.com)
         * [A Byte of Python](https://python.swaroopch.com/first_steps.html)
         * [CodeCademy: Python](https://www.codecademy.com/learn/python)
 
