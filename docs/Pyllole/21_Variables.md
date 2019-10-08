@@ -19,7 +19,7 @@ Ogni linguaggio di programmazione ha i suoi tipi di dati con le proprie particol
 * [Booleani](Type_Boolean.md): 0 o 1, chiamati anche False o True
 * [Numeri interi](Type_Number.md): in grado di rappresentare, a seconda del numero di byte utilizzati, i numeri interi da -N a +N
 * [Numeri decimali](Type_Number.md): numero in virgola mobile, indica il metodo di rappresentazione approssimata dei numeri reali
-* [Stringhe](Type_String.md): sequenze di caratteri (lettere, numeri e simboli) che formano un testo
+* [Stringhe](42_Type_String.md): sequenze di caratteri (lettere, numeri e simboli) che formano un testo
 
 Esistoni inoltre molti tipi di dati complessi, dagli array agli oggetti, ma per il momento è meglio fermarsi a questi.
 
