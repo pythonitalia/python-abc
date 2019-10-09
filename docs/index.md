@@ -66,9 +66,8 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
           * [Fundamentals of Programming Python](http://python.cs.southern.edu/pythonbook/pythonbook.pdf)
           * [O’Reilly Media: A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
           * Packt Publishing
-              * [Learning Python](https://www.packtpub.com/packt/free-ebook/learning-python)
-              * [What You Need To Know About Python](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-python)
-              * [Mastering Python](https://www.packtpub.com/free-ebook/mastering-python)
+              * [Learning Python](https://www.packtpub.com/free-ebooks/learning-python)
+              * [Mastering Python](https://www.packtpub.com/free-ebooks/mastering-python)
           * [Python Practice Book](https://anandology.com/python-practice-book/index.html)
           * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf)
           * [Syncfusion: Python Succinctly](https://www.syncfusion.com/ebooks/python)
@@ -109,7 +108,7 @@ In questi elenchi possono essere trovati approfondimenti e documentazione relati
       * [Python.it - I libri su Python](http://www.python.it/doc/libri/)
   * INGLESE
       * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-podcasts-screencasts-en.md#python)
-      * [Packt Publishing: Free Learning - Free Programming Ebooks](https://www.packtpub.com/packt/offers/free-learning)
+      * [Packt Publishing: Free Learning - Free Programming Ebooks](https://www.packtpub.com/free-learning)
       * [O’Reilly Media: Free Ebooks](http://www.oreilly.com/free/reports.html)
       * [Syncfusion: Succinctly free eBooks](https://www.syncfusion.com/ebooks)
       * [Awesome Python](https://github.com/vinta/awesome-python) - una lista di frameworks, librerie e software
@@ -122,7 +121,7 @@ In questi elenchi possono essere trovati approfondimenti e documentazione relati
 
 ---
 
-Ogni contributo è ben accetto, leggi il [codice di condotta](CODE_OF_CONDUCT.md) e la pagina con le [linee guida alla collaborazione](CONTRIBUTING.md).
+Ogni contributo è ben accetto, leggi il [codice di condotta](https://github.com/pythonitalia/python-abc/blob/master/CODE_OF_CONDUCT.md) e la pagina con le [linee guida alla collaborazione](https://github.com/pythonitalia/python-abc/blob/master/CONTRIBUTING.md).
 
 Questa guida è è pubblicata con licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (Creative Commons Attribution 4.0 International)  - [leggi qui  i dettagli](https://github.com/pythonitalia/python-abc/blob/master/LICENSE).
 
