@@ -22,5 +22,5 @@ Manutentori del progetto che non seguono o non fanno rispettare il codice di con
 Questo codice di condotta vale sia online che nella vita reale nel momento in cui un individuo sta rappresentando il progetto o la sua comunità.
 
 Questo codice di condatta è stato tradotto e adattato da:
-The Contributor Covenant, version 1.3.0, available at [https://www.contributor-covenant.org/version/1/3/0/code-of-conduct.html](https://www.contributor-covenant.org/version/1/3/0/code-of-conduct.html) released under the [CC BY 4.0 License](https://github.com/ContributorCovenant/contributor_covenant/blob/master/LICENSE.md).
+The Contributor Covenant, version 1.3.0, available at [https://www.contributor-covenant.org/version/1/3/0/code-of-conduct.html](https://www.contributor-covenant.org/version/1/3/0/code-of-conduct.html) released under the [CC BY 4.0 License](https://github.com/ContributorCovenant/contributor_covenant/blob/release/LICENSE.md).
 

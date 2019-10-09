@@ -16,9 +16,9 @@ Così nascono gli standard, dall'ASCII a UTF-8, dalle GIF alle PNG, tutti i modi
 
 Ogni linguaggio di programmazione ha i suoi tipi di dati con le proprie particolari caratteristiche, ma in generale i tipi di base sono:
 
-* [Booleani](Type_Boolean.md): 0 o 1, chiamati anche False o True
+* [Booleani](43_Type_Boolean.md): 0 o 1, chiamati anche False o True
 * [Numeri interi](Type_Number.md): in grado di rappresentare, a seconda del numero di byte utilizzati, i numeri interi da -N a +N
-* [Numeri decimali](Type_Number.md): numero in virgola mobile, indica il metodo di rappresentazione approssimata dei numeri reali
+* [Numeri decimali](41_Type_Number.md): numero in virgola mobile, indica il metodo di rappresentazione approssimata dei numeri reali
 * [Stringhe](42_Type_String.md): sequenze di caratteri (lettere, numeri e simboli) che formano un testo
 
 Esistoni inoltre molti tipi di dati complessi, dagli array agli oggetti, ma per il momento è meglio fermarsi a questi.
@@ -87,7 +87,7 @@ Il doppio carattere uguale `==` è sempre un operatore di uguaglianza, non una a
 
 Il _casting_ in programmazione è la conversione di un dato da un tipo ad un altro.
 
-Potremmo avere una variabile a cui è assegnato il valore `"123", anche se sembra un numero, come già suggeriscono le virgolette, in realtà si tratta di una stringa (magari acquisita tramite [input](Input.md)).
+Potremmo avere una variabile a cui è assegnato il valore `"123", anche se sembra un numero, come già suggeriscono le virgolette, in realtà si tratta di una stringa (magari acquisita tramite [input](https://github.com/pythonitalia/python-abc/blob/master/docs/Pyllole/25_Input.md).
 
 Se volessi trattare questo `"123"` come se fosse un numero, e sommargline ad esempio un altro, dovrei prima trasformalo in un intero. 
 Per convertire in intero una stringa, o un float, si utilizza la funzione `int()`.
