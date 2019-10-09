@@ -6,7 +6,7 @@
 * `Complesso è meglio di complicato`
 * `La leggibilità è importante`
 
-Questi cinque principi, presi da [Lo Zen di Python](Zen.md), fanno capire quanto in Python la forma sia importante tanto quanto la sintassi.
+Questi cinque principi, presi da [Lo Zen di Python](https://pythonitalia.github.io/python-abc/Pyllole/99_Zen.html), fanno capire quanto in Python la forma sia importante tanto quanto la sintassi.
 
 In Python ogni comando si scrive su una singola riga e non necessita di particolari caratteri di termine (altri linguaggi necessitano, per esempio, di `;`). 
 Se si vogliono scrivere più comandi sulla stessa riga è possibile dividerli utilizzando il `;`, ma non farlo.
