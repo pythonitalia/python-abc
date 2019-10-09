@@ -16,7 +16,8 @@ Così nascono gli standard, dall'ASCII a UTF-8, dalle GIF alle PNG, tutti i modi
 
 Ogni linguaggio di programmazione ha i suoi tipi di dati con le proprie particolari caratteristiche, ma in generale i tipi di base sono:
 
-* [Booleani](Type_Boolean.md): 0 o 1, chiamati anche False o True
+
+* [Booleani](43_Type_Boolean.md): 0 o 1, chiamati anche False o True
 * [Numeri interi](41_Type_Number.md): in grado di rappresentare, a seconda del numero di byte utilizzati, i numeri interi da -N a +N
 * [Numeri decimali](Type_Number.md): numero in virgola mobile, indica il metodo di rappresentazione approssimata dei numeri reali
 * [Stringhe](Type_String.md): sequenze di caratteri (lettere, numeri e simboli) che formano un testo
