@@ -107,7 +107,7 @@ Un'altro aiuto diretto nell'interprete è dato dalla funzione `dir()`, in grado 
 
 Creare uno script significa creare un file contenente un programma Python. Questo file/programma potrà poi essere eseguito direttamente o importato da altri programmi.
 
-Per creare un file script **basta un semplice [editor di testo](Pyllole/05_Development_Environment.md)**, nulla di più. Studiando Python è meglio evitare complessi ambienti di sviluppo (IDE), quando si conoscerà il linguaggio e si svilupperanno veri programmi, si potrà decidere di utilizzarli per ottimizzare il proprio lavoro.
+Per creare un file script **basta un semplice [editor di testo](05_Development_Environment.md)**, nulla di più. Studiando Python è meglio evitare complessi ambienti di sviluppo (IDE), quando si conoscerà il linguaggio e si svilupperanno veri programmi, si potrà decidere di utilizzarli per ottimizzare il proprio lavoro.
 
 Il file script di python hanno estensione _.py_, crea un tuo file, chiamiamolo _prova.py_ e comincia a programmare.
 
