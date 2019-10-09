@@ -1,6 +1,6 @@
 # Tipi: Set
 
-_Prima di studiare i set assicurati di conoscere le [liste](Type_List.md)._
+_Prima di studiare i set assicurati di conoscere le [liste](53_Type_List.md)._
 
 I set sono come le liste ma non possono contenere doppioni.
 

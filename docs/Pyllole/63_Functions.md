@@ -50,7 +50,7 @@ def varargs(*args):
 ```
 
 All'interno della funzione la variabile `args` sarà di un tipo particolare chiamato tupla.
-Questa variabile conterrà tutti i parametri passati alla funzione (leggi la pagine relativa alle [liste](Type_List.md) e alle [tuple](Type_Tuple.md)).
+Questa variabile conterrà tutti i parametri passati alla funzione (leggi la pagine relativa alle [liste](53_Type_List.md) e alle [tuple](55_Type_Tuple.md)).
 
 ```python
 >>> varargs(1, 2, 3)                                   
@@ -65,7 +65,7 @@ def keyword_args(**kwargs):
 ```
 
 All'interno della funzione la variabile `kwargs` sarà di un tipo particolare dizionario.
-Questa variabili conterrà tutti i paramentri inviati come coppie chiave/valore  (leggi la pagine relativa ai [dizionari](Type_Dictionary.md)).
+Questa variabili conterrà tutti i paramentri inviati come coppie chiave/valore  (leggi la pagine relativa ai [dizionari](59_Type_Dictionary.md)).
 
 ```python
 >>> keyword_args(alpha=40, beta=50)                  

@@ -1,6 +1,6 @@
 # Try - Except
 
-_Ricorda, in python [l'indentazione](Syntax.md#indentazione) è molto importante!_
+_Ricorda, in python [l'indentazione](11_Syntax.md#indentazione) è molto importante!_
 
 Le eccezioni (exception) sono errori rilevati durante l'esecuzione di un programma.
 
@@ -67,7 +67,7 @@ finally:
 ### Esempio pratico
 **Conversione e controllo risultato di input()**
 
-Se si vuole utilizzare il risultato della funzione `input()`, che è sempre una stringa, come dato numerico è necessario convertirlo utilizzando le funzioni [int() o float()](Type_Number.md). Il valore immesso potrebbe però non essere convertibile in un numero, in questo caso la funzione di conversione usata genererà un'errore che è meglio gestire.
+Se si vuole utilizzare il risultato della funzione `input()`, che è sempre una stringa, come dato numerico è necessario convertirlo utilizzando le funzioni [int() o float()](41_Type_Number.md). Il valore immesso potrebbe però non essere convertibile in un numero, in questo caso la funzione di conversione usata genererà un'errore che è meglio gestire.
 
 ```python
 stringa = input("Inserisci un numero intero: ") 
@@ -77,4 +77,4 @@ except:
     print("Il dato inserito non è un numero intero")
 ```
 
-Vedi l'esempio pratico nella pagina [cicli](Loops.md) per come ripetere il controllo finché il valore è corretto.
+Vedi l'esempio pratico nella pagina [cicli](29_Loops.md) per come ripetere il controllo finché il valore è corretto.

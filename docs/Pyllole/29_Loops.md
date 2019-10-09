@@ -1,12 +1,12 @@
 # Cicli
 
-_Prima di studiare i cicli e gli iteratori assicurati di conoscere le [liste](Type_List.md)._
+_Prima di studiare i cicli e gli iteratori assicurati di conoscere le [liste](53_Type_List.md)._
 
 Per ripetere una determinata azione più volte e/o su più elementi si utilizzano le istruzioni `for` e `while` per costruire dei _"cicli"_.
 
 Il programma ripeterà il codice all'interno del ciclo per un numero di volte determinato da una determinata condizione.
 
-_Ricorda, in python [l'indentazione](Syntax.md#indentazione) è molto importante!_
+_Ricorda, in python [l'indentazione](11_Syntax.md#indentazione) è molto importante!_
 
 
 ## For

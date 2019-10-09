@@ -1,8 +1,8 @@
 # Tipi: Tuple 
 
-_Prima di studiare le tuple assicurati di conoscere le [liste](Type_List.md)._
+_Prima di studiare le tuple assicurati di conoscere le [liste](53_Type_List.md)._
 
-Le tuple sono come le [liste](Type_List.md) ma immutabili.
+Le tuple sono come le [liste](53_Type_List.md) ma immutabili.
 
 ```python
 >>> tup = (1, 2, 3)                                    

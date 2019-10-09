@@ -1,6 +1,6 @@
 # List Comprehension
 
-_Prima di approfondire le "List Comprehension" assicurati di conoscere le [liste](Type_List.md), [set](Type_Set.md) e [dizionari](Type_Dictionary.md)._
+_Prima di approfondire le "List Comprehension" assicurati di conoscere le [liste](53_Type_List.md), [set](57_Type_Set.md) e [dizionari](59_Type_Dictionary.md)._
 
 La sintassi per le _list comprehension_ consente, in modo semplice ed elegante, di costruire sequenze da altre sequenze. 
 

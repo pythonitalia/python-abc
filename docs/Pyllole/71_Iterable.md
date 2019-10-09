@@ -1,7 +1,7 @@
 
 # Iterabili e Iteratori
 
-_Prima di approfondire gli oggetti iterabili assicurati di conoscere le [liste](Type_List.md), [set](Type_Set.md) e [dizionari](Type_Dictionary.md)._
+_Prima di approfondire gli oggetti iterabili assicurati di conoscere le [liste](53_Type_List.md), [set](57_Type_Set.md) e [dizionari](59_Type_Dictionary.md)._
 
 **In Python qualunque oggetto in grado di essere trattato come una sequenza è definito un oggetto iterable (iterabile)**.
 

@@ -1,6 +1,6 @@
 # Tipi: Dizionari
 
-_Prima di studiare i dizionari assicurati di conoscere le [liste](Type_List.md)._
+_Prima di studiare i dizionari assicurati di conoscere le [liste](53_Type_List.md)._
 
 Un dizionario è come una lista che ha un nome al posto dell'indice, è un insieme di coppie chiave-valore. 
 

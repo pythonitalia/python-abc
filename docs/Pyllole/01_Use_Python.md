@@ -39,7 +39,7 @@ Ciao
 
 Se si utilizzano istruzioni che prevedono più linee di codice, come i cicli o la definizione di funzione, l'interprete segnalerà che non ha ancora iniziato a interpretare i comandi forniti cambiando il prompt in `...`.
 
-Naturalmente, in questi casi, si deve fare molta attenzione all'[indentazione](Syntax.md#indentazione).
+Naturalmente, in questi casi, si deve fare molta attenzione all'[indentazione](11_Syntax.md#indentazione).
 
 ```python
 >>> for a in range(3):

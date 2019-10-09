@@ -4,7 +4,7 @@ In un programma le istruzioni vengono eseguite nell'ordine in cui sono scritte n
 
 Per poter eseguire una parte di questo codice solo in alcuni casi si utilizza l'istruzione di controllo  `if`/`else`.
 
-_Ricorda, in python [l'indentazione](Syntax.md#indentazione) è molto importante!_
+_Ricorda, in python [l'indentazione](11_Syntax.md#indentazione) è molto importante!_
 
 La sintassi di base di `if` è:
 

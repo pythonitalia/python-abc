@@ -112,7 +112,7 @@ In questi elenchi possono essere trovati approfondimenti e documentazione relati
       * [Packt Publishing: Free Learning - Free Programming Ebooks](https://www.packtpub.com/packt/offers/free-learning)
       * [O’Reilly Media: Free Ebooks](http://www.oreilly.com/free/reports.html)
       * [Syncfusion: Succinctly free eBooks](https://www.syncfusion.com/ebooks)
-      * [Awesome Python Awesome](https://github.com/vinta/awesome-python) - list of frameworks, libraries, software and resources
+      * [Awesome Python](https://github.com/vinta/awesome-python) - una lista di frameworks, librerie e software
 
 *  ### Video Corsi e Tutorial
    * ITALIANO
