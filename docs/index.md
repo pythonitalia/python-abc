@@ -92,6 +92,7 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
       * [Programmare in Python 2 - Marco Beri](https://www.youtube.com/playlist?list=PLC4DEDAECF24B855D)
       * [Amazing Python - Marco Beri](https://www.youtube.com/watch?v=O0DLSD5o5VU&list=PLu-RPGHOxmPVN7WbrlmO6Vc2gb8djB3_n)
   * INGLESE
+      * [Python for Beginners - Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
       * [Automate the Boring Stuff with Python](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
       * [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
       * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA)
