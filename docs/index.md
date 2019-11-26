@@ -53,7 +53,9 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
       * [Documentazione ufficiale](http://python.it/doc/)
       * eBook: [Immersione in Python 3](http://gpiancastelli.altervista.org/dip3-it/) - [PDF](http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip)
       * eBook: [ThinkPython](https://github.com/AllenDowney/ThinkPythonItalian/) -[PDF](https://github.com/AllenDowney/ThinkPythonItalian/blob/master/thinkpython_italian.pdf)
+      * Tutorial: [Tutorial Python di CodingCreativo.it](https://www.codingcreativo.it/tutorial-python/)
       * Guida: [Guida Python di HTML.IT](http://www.html.it/guide/guida-python/)
+      
 
   * INGLESE
 
