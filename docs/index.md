@@ -14,7 +14,7 @@ Prima di voler scrivere un qualunque programma con Python è necessario conoscer
 * **Python.it** : [sito ufficiale italiano](http://www.python.it/) - [Forum](http://www.python.it/forum) - [Telegram](https://t.me/python_ita) - [Mailing list](http://www.python.it/comunita/mailing-list/)
 * **Forumpython.it**: [Sito e Forum](http://forumpython.it)
 
-**Cerca di usare, per quanto possibile, Python 3.x**, [a breve](https://pythonclock.org) Python 2.7 non verrà più supportato.
+**Nello studio e nelle ricerche fai sempre riferimento a Python 3.x**, Python 2 non è più supportato dal  1° gennaio 2020, maggiori informazioni [qui](https://www.python.org/doc/sunset-python-2/).
 
 ## Per iniziare
 
