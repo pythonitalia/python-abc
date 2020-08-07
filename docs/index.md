@@ -80,6 +80,8 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
           * [Think Python 2e](http://greenteapress.com/wp/think-python-2e/)
           * [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
           * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
+      * Cheatsheet
+        * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
       * Tutorial
         * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)
         * [Python 3 Module of the Week](https://pymotw.com)
