@@ -113,6 +113,7 @@ In questi elenchi possono essere trovati approfondimenti e documentazione relati
   * ITALIANO
       * [Python.it - I libri su Python](http://www.python.it/doc/libri/)
   * INGLESE
+      * [Python projects for beginners](https://beginnerpythonprojects.com/)
       * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-podcasts-screencasts-en.md#python)
       * [Packt Publishing: Free Learning - Free Programming Ebooks](https://www.packtpub.com/free-learning)
       * [O’Reilly Media: Free Ebooks](http://www.oreilly.com/free/reports.html)
