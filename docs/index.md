@@ -79,7 +79,7 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
           * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
           * [Python 101](https://leanpub.com/python_101)  
           * [Intermediate Python](https://leanpub.com/intermediatepython)
-          * [Think Python 2e](http://greenteapress.com/wp/think-python-2e/)
+          * [Think Python 2 edition](http://greenteapress.com/wp/think-python-2e/)
           * [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
           * [Building Skills in Python](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf)
       * Cheatsheet
@@ -96,7 +96,6 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
       * [Video Corso Python 3 - Impara a Programmare in Python 3.6](https://www.youtube.com/playlist?list=PLHUQL6-_n9Zes1VLMgJbLa8IIOHT9x4Nu)
       * [Python 3.6 Tutorial Italiano - Programmazione a Oggetti - Classi e Istanze](https://www.youtube.com/watch?v=nmoJf-Ei4TA&list=PLHUQL6-_n9ZdD3JMKg4On4NFh8bBg3Ckn)
       * [ProgrammareInPython.it - Video Corsi e Esercizi](https://www.programmareinpython.it/programmare-in-python/)
-      * [Programmare in Python 2 - Marco Beri](https://www.youtube.com/playlist?list=PLC4DEDAECF24B855D)
       * [Amazing Python - Marco Beri](https://www.youtube.com/watch?v=O0DLSD5o5VU&list=PLu-RPGHOxmPVN7WbrlmO6Vc2gb8djB3_n)
   * INGLESE
       * [Python for Beginners - Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
