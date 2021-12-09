@@ -11,7 +11,10 @@ Una volta installato Python ci sono due fondamentali modi per utilizzarlo:
 
 Eseguendo direttamente Python viene attivata la modalità intereattiva dell'interprete (REPL), un'interfaccia per scrivere ed eseguire immediatamente i comandi del linguaggio Python. Il REPL si presenta semplicemente con un _prompt_ `>>>` in attesa di un comando.
 
-A seconda di come, cosa e dove è stato installato Python, potrebbe essere necessario specificare quale versione si vuole eseguire. Ad oggi molte versioni pre-installate eseguono Python 2.7 di default, in questi casi è necessario specificare `python3` per eseguire l'ultima versione.
+A seconda di come, cosa e dove è stato installato Python, potrebbe essere necessario specificare quale versione si vuole eseguire. 
+In alcuni sistemi obsoleti potresti trovar installato Python 2, in questi casi è necessario specificare `python3` per eseguire l'ultima versione.
+
+**Ricorda, Python 2 non è più supportato dal  1° gennaio 2020, maggiori informazioni [qui](https://www.python.org/doc/sunset-python-2/).**
 
 ```
 $ python
