@@ -1,6 +1,6 @@
 # Print
 
-La funzione `print()` permette di scrivere sulla vostra console delle stringhe (in Python 2.7 non era una funzione ma un'istruzione built-in del linguaggio che non richiedeva le parentesi).
+La funzione `print()` permette di scrivere sulla vostra console delle stringhe (sequenze di caratteri).
 
 ```python
 >>> print("Ciao, questa è una stringa.")               
