@@ -14,8 +14,6 @@ Eseguendo direttamente Python viene attivata la modalità intereattiva dell'inte
 A seconda di come, cosa e dove è stato installato Python, potrebbe essere necessario specificare quale versione si vuole eseguire. 
 In alcuni sistemi obsoleti potresti trovar installato Python 2, in questi casi è necessario specificare `python3` per eseguire l'ultima versione.
 
-**Ricorda, Python 2 non è più supportato dal  1° gennaio 2020, maggiori informazioni [qui](https://www.python.org/doc/sunset-python-2/).**
-
 ```
 $ python
 Python 2.7.13 (default, Nov 24 2017, 17:33:09)
@@ -31,6 +29,7 @@ Python 3.5.3 (default, Jan 19 2017, 14:11:04)
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
+**Ricorda, Python 2 non è più supportato dal  1° gennaio 2020, maggiori informazioni [qui](https://www.python.org/doc/sunset-python-2/).**
 
 All'interno dell'interprete è possibile inviare comandi Python che vengono eseguiti man mano che vengono scritti (riga per riga).
 
