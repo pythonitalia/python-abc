@@ -9,7 +9,7 @@ Il modo più semplice per sapere se il tuo sistema ha già installato Python è 
 
 Per installare Python scarica la versione più recente dal sito ufficiale: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-**Ricorda, [a breve](https://pythonclock.org) Python 2.7 non verrà più supportato.**
+**Ricorda, Python 2 non è più supportato dal 1° gennaio 2020, maggiori informazioni i [qui](https://www.python.org/doc/sunset-python-2/).**
 
 ---
 
