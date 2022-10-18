@@ -85,7 +85,7 @@ while x < 4:
 ### Esempio pratico
 **Ciclo while per riproporre la richiesta di dati in caso di errore di immissione**
 
-La funzione `input()` acqusisce un valore inserito da tastiera in formato stringa. A volte è necessario che il dato acquisito sia un numero, in questi casi si utilizzano le funzioni `int()` o `float()` per convertirlo. 
+La funzione `input()` acquisisce un valore inserito da tastiera in formato stringa. A volte è necessario che il dato acquisito sia un numero, in questi casi si utilizzano le funzioni `int()` o `float()` per convertirlo. 
 
 Si può quindi  utilizzare `try`/`except` per controllare che sia stato inserito un dato valido, ma per riproporre la domanda in caso di errore è necessario creare un ciclo.
 
