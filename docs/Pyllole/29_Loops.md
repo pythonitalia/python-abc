@@ -95,7 +95,7 @@ Nel seguente esempio ripetiamo la richiesta finché a `numero` non viene assegna
 numero=None                                                                        
 while not numero:
     try:
-              numero=int(input("Inserisci un numero intero: "))
+        numero=int(input("Inserisci un numero intero: "))
     except:
         print("Il dato inserito non è un numero intero")
 ```
