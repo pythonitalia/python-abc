@@ -90,6 +90,7 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
         * [Python 3 Module of the Week](https://pymotw.com)
         * [A Byte of Python](https://python.swaroopch.com/first_steps.html)
         * [CodeCademy: Python](https://www.codecademy.com/learn/python)
+        * [Scaler Topics: Python Tutorial](https://www.scaler.com/topics/python/)
 
 * ### Video Corsi e Tutorial
   * ITALIANO
