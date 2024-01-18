@@ -100,7 +100,7 @@ Con le _f-string_ è possibile anche eseguire delle espressioni all'interno del 
 >>> seven = 7
 >>> f'''Il suo nome è {name.upper()}
 ...ed ha {6 * seven} anni.'''
-'Il suo nome è John ed ha 42 anni.'
+'Il suo nome è JOHN ed ha 42 anni.'
 ```
 
 
