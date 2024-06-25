@@ -114,7 +114,7 @@ In questi elenchi possono essere trovati approfondimenti e documentazione relati
       * [Python.it - I libri su Python](http://www.python.it/doc/libri/)
   * INGLESE
       * [Python projects for beginners](https://beginnerpythonprojects.com/)
-      * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/?tab=readme-ov-file#podcast---screencast)
+      * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md#python)
       * [Packt Publishing: Free Learning - Free Programming Ebooks](https://www.packtpub.com/free-learning)
       * [O’Reilly: Open Books](https://www.oreilly.com/openbook/) 
       * [Syncfusion: Succinctly free eBooks](https://www.syncfusion.com/ebooks)
