@@ -114,9 +114,9 @@ In questi elenchi possono essere trovati approfondimenti e documentazione relati
       * [Python.it - I libri su Python](http://www.python.it/doc/libri/)
   * INGLESE
       * [Python projects for beginners](https://beginnerpythonprojects.com/)
-      * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-podcasts-screencasts-en.md#python)
+      * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md#python)
       * [Packt Publishing: Free Learning - Free Programming Ebooks](https://www.packtpub.com/free-learning)
-      * [O’Reilly Media: Free Ebooks](http://www.oreilly.com/free/reports.html)
+      * [O’Reilly: Open Books](https://www.oreilly.com/openbook/) 
       * [Syncfusion: Succinctly free eBooks](https://www.syncfusion.com/ebooks)
       * [Awesome Python](https://github.com/vinta/awesome-python) - una lista di frameworks, librerie e software
 
@@ -124,7 +124,7 @@ In questi elenchi possono essere trovati approfondimenti e documentazione relati
    * ITALIANO
        * [Python.it - Media](http://python.it/doc/media/)
    * INGLESE
-      * [Free Python Podcasts and Screencasts](https://github.com/EbookFoundation/free-programming-books/blob/master/free-podcasts-screencasts-en.md#python)
+      * [Free Python Podcasts and Screencasts](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md)
 
 ---
 
