@@ -20,8 +20,8 @@ class Human:
         # Assegna l'argomento all'attributo name dell'istanza
         self.name = name
 
-    # Inizializza una proprietà
-    self._age = 0
+        # Inizializza una proprietà
+        self._age = 0
 
     # Un metodo dell'istanza. Tutti i metodi prendo "self"
     # come primo argomento
