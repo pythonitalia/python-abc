@@ -23,7 +23,7 @@ class Human:
         # Inizializza una proprietà
         self._age = 0
 
-    # Un metodo dell'istanza. Tutti i metodi prendo "self"
+    # Un metodo dell'istanza. Tutti i metodi prendono "self"
     # come primo argomento
     def say(self, msg):
         print("{name}: {message}".format(name=self.name, message=msg))
