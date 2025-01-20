@@ -84,11 +84,9 @@ if __name__ == '__main__':
 
     # Chiama un metodo statico 
     print(Human.grunt())            # => "*grunt*"
-    
-    # Non è possibile chiamare il metodo statico con l'istanza dell'oggetto
-    # poiché i.grunt() metterà automaticamente "self" (l'oggetto i) 
-    # come argomento 
-    print(i.grunt())                # => TypeError: grunt() takes 0 positional arguments but 1 was given
+     
+    # I metodi statici possono essere chiamati anche dalle istanze
+    print(i.grunt())                # => "*grunt*"
                                     
     # Aggiorna la property (age) di questa istanza
     i.age = 42
