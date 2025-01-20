@@ -20,10 +20,10 @@ class Human:
         # Assegna l'argomento all'attributo name dell'istanza
         self.name = name
 
-    # Inizializza una proprietà
-    self._age = 0
+        # Inizializza una proprietà
+        self._age = 0
 
-    # Un metodo dell'istanza. Tutti i metodi prendo "self"
+    # Un metodo dell'istanza. Tutti i metodi prendono "self"
     # come primo argomento
     def say(self, msg):
         print("{name}: {message}".format(name=self.name, message=msg))
@@ -45,7 +45,7 @@ class Human:
         return "*grunt*"
 
     # Una property è come un metodo getter.
-    # Trasforma il metodo age() in un attributo in sola lettura,  
+    # Trasforma il metodo age() in un attributo in sola lettura,
     # che ha lo stesso nome 
     @property
     def age(self):
@@ -94,7 +94,7 @@ if __name__ == '__main__':
     i.age = 42
     # Leggi la property
     i.say(i.age)                    # => "Ian: 42"
-    j.say(j.age)                   # => "Joel: 0"
+    j.say(j.age)                    # => "Joel: 0"
     # Cancella la property
     del i.age
     i.age                           # => questo genererà un AttributeError
