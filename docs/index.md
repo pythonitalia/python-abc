@@ -43,7 +43,7 @@ Le Pyllole sono brevi e semplici spiegazioni relative al linguaggio Python 3.
   * Per condividere il tuo codice, in un forum o chat, usa un servizio per la condivisione del codice
      * [hastebin](https://hastebin.com) - [arin.ga](https://arin.ga) - [dpaste.de](https://dpaste.de)
   * Puoi provare il tuo codice, senza installare nulla sul tuo PC, usando un compilatore online
-     * [Judge0 IDE](https://ide.judge0.com) - [Coddy](https://coddy.tech/playground/it/python) - [repl.it](https://repl.it/)
+     * [Judge0 IDE](https://ide.judge0.com) - [trinket.strivemath.org](https://trinket.strivemath.org/python3) - [repl.it](https://repl.it/) - [Coddy](https://coddy.tech/playground/it/python) 
 
 ## Documentazione Gratuita
 
