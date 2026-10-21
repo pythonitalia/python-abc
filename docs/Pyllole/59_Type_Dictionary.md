@@ -2,9 +2,9 @@
 
 _Prima di studiare i dizionari assicurati di conoscere le [liste](53_Type_List.md)._
 
-Un dizionario è come una lista che ha un nome al posto dell'indice, è un insieme di coppie chiave-valore. 
+Un dizionario è come una lista che ha un nome al posto dell'indice, è un insieme di coppie chiave-valore.
 
-**Importante**: le coppie chiave-valore in un dizionario non sono ordinate o ordinabili.
+**Importante**: da Python 3.7 i dizionari conservano l’ordine di inserimento delle coppie chiave-valore. Le chiavi non vengono ordinate automaticamente per nome o valore.
 
 Se in una lista è possibile accedere ad un dato in questo modo:
 
@@ -51,31 +51,31 @@ Si accede ai valori indicando la chiave tra `[]`
 
 ```python
 >>> filled_dict["uno"]
-1 
+1
 ```
 
 Puoi ottenere tutte le chiavi di un dizionario con `keys()` (come oggetto iterabile). Per averle in formato lista è necessario  utilizzare `list()`.
 
-**Importante**: Nei dizionari l'ordine delle chiavi non è garantito. Il tuo risultato potrebbe non essere uguale a questo.
+**Importante**: da Python 3.7 l’ordine delle chiavi corrisponde all’ordine di inserimento. Nelle versioni precedenti del linguaggio questa garanzia non era prevista.
 
 ```python
->> list(filled_dict.keys())
-['uno', 'tre', 'due']
+>>> list(filled_dict.keys())
+['uno', 'due', 'tre']
 ```
 
-Puoi ottenere tutti i valori di un dizionario con `values()` (come oggetto iterabile). 
-Anche in questo caso, per averle in formato lista, è necessario utilizzare `list()`. Anche in questo caso, come per le chiavi, l'ordine non è garantito
+Puoi ottenere tutti i valori di un dizionario con `values()` (come oggetto iterabile).
+Per avere i valori in formato lista è necessario utilizzare `list()`. I valori seguono lo stesso ordine delle chiavi.
 
 ```python
-list(filled_dict.values())
-[1, 3, 2]
+>>> list(filled_dict.values())
+[1, 2, 3]
 ```
 
 Controlla l'esistenza delle chiavi in un dizionario con `in`
 
 ```python
 >>> "uno" in filled_dict
-True 
+True
 >>> 1 in filled_dict
 False
 ```
@@ -122,7 +122,7 @@ Aggiungere una coppia chiave->valore a un dizionario
 ```python
 >>> filled_dict.update({"quattro":4})
 >>> filled_dict
-{'uno': 1, 'tre': 3, 'quattro': 4, 'cinque': 5, 'due': 2}
+{'uno': 1, 'due': 2, 'tre': 3, 'cinque': 5, 'quattro': 4}
 ```
 
 Un altro modo:
@@ -130,7 +130,7 @@ Un altro modo:
 ```python
 >>> filled_dict["sette"] = 7
 >>> filled_dict
-{'sette': 7, 'tre': 3, 'cinque': 5, 'due': 2, 'uno': 1, 'quattro': 4}
+{'uno': 1, 'due': 2, 'tre': 3, 'cinque': 5, 'quattro': 4, 'sette': 7}
 ```
 
 Rimuovi una chiave da un dizionario con `del`
@@ -138,7 +138,7 @@ Rimuovi una chiave da un dizionario con `del`
 ```python
 >>> del filled_dict["uno"]
 >>> filled_dict
-{'sette': 7, 'tre': 3, 'cinque': 5, 'due': 2, 'quattro': 4}
+{'due': 2, 'tre': 3, 'cinque': 5, 'quattro': 4, 'sette': 7}
 ```
 
 Da Python 3.5 puoi anche usare ulteriori opzioni di spacchettamento

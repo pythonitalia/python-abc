@@ -111,7 +111,7 @@ mia_var="pippo"
 ```python
 #! /usr/bin/python3
 
-def mia_funzione(*args)
+def mia_funzione(*args):
     """ Questa funzione restituisce ...
         Gli argomenti ...   
     """

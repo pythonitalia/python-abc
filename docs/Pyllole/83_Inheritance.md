@@ -17,31 +17,30 @@ Specificare le classi genitore come parametri della definizione della classe
 
 ```python
 class Superhero(Human):
-    # Se la classe figlio deve ereditare tutte le definizioni del 
-    # genitore  senza alcuna modifica, puoi semplicemente usare 
+    # Se la classe figlio deve ereditare tutte le definizioni del
+    # genitore  senza alcuna modifica, puoi semplicemente usare
     # la parola chiave "pass" (e nient'altro)
     # Le classi figlio possono sovrascrivere gli attributi dei loro genitori
     species = 'Superhuman'
 
-    # Le classi figlie ereditano automaticamente il costruttore della classe 
-    # genitore, inclusi i suoi argomenti, ma possono anche definire ulteriori 
-    # argomenti o definizioni e sovrascrivere i suoi metodi (compreso  il 
+    # Le classi figlie ereditano automaticamente il costruttore della classe
+    # genitore, inclusi i suoi argomenti, ma possono anche definire ulteriori
+    # argomenti o definizioni e sovrascrivere i suoi metodi (compreso  il
     # costruttore della classe).
-    # Questo costruttore eredita l'argomento "nome" dalla classe "Human" e 
+    # Questo costruttore eredita l'argomento "nome" dalla classe "Human" e
     # aggiunge gli argomenti "superpowers" e "movie":
     def __init__(self, name, movie=False,
          superpowers=["super strength", "bulletproofing"]):
 
-    # aggiungi ulteriori attributi della classe
-    self.fictional = True
-    self.movie = movie
-    self.superpowers = superpowers
+        # aggiungi ulteriori attributi della classe
+        self.fictional = True
+        self.movie = movie
+        self.superpowers = superpowers
 
-    # La funzione "super" ti consente di accedere ai metodi della classe 
-    # genitore che sono stati sovrascritti dalla classe figlia,  
-    # in questo caso il metodo __init__.
-    # Il seguente codice esegue il costruttore della classe genitore:
-    super().__init__(name)
+        # La funzione "super" ti consente di accedere ai metodi della classe
+        # genitore, in questo caso il metodo __init__.
+        # Il seguente codice inizializza gli attributi definiti in Human:
+        super().__init__(name)
 
     # Sovrascrivere il metodo "sing"
     def sing(self):
@@ -59,36 +58,36 @@ Proviamo la classe `Superhero`:
 if __name__ == '__main__':
     sup = Superhero(name="Tick")
 
-# Controllo del tipo di istanza
-if isinstance(sup, Human):
-    print('I am human')
-if type(sup) is Superhero:
-    print('I am a superhero')
+    # Controllo del tipo di istanza
+    if isinstance(sup, Human):
+        print('I am human')
+    if type(sup) is Superhero:
+        print('I am a superhero')
 
-# Ottieni il "Method Resolution search Order" usato sia da getattr () 
-# che da super (). Questo attributo è dinamico e può essere aggiornato
-print(Superhero.__mro__)    # => (<class '__main__.Superhero'>,
-                            # => <class 'human.Human'>, <class 'object'>)
+    # Ottieni il "Method Resolution search Order" usato sia da getattr ()
+    # che da super (). Questo attributo è dinamico e può essere aggiornato
+    print(Superhero.__mro__)    # => (<class '__main__.Superhero'>,
+                                # => <class 'human.Human'>, <class 'object'>)
 
-# Esegui il metodo principale ma utilizza il proprio attributo di classe
-print(sup.get_species())    # => Superhuman
+    # Esegui il metodo principale ma utilizza il proprio attributo di classe
+    print(sup.get_species())    # => Superhuman
 
-# Esegui un metodo che è stato sovrascritto
-print(sup.sing())           # => Dun, dun, DUN!
+    # Esegui un metodo che è stato sovrascritto
+    print(sup.sing())           # => Dun, dun, DUN!
 
-# Esegui un metodo di Human
-sup.say('Spoon')            # => Tick: Spoon
+    # Esegui un metodo di Human
+    sup.say('Spoon')            # => Tick: Spoon
 
-# Esegui un metodo che esiste solo in Superhero
-sup.boast()                 # => I wield the power of super strength!
-                                # => I wield the power of bulletproofing!
+    # Esegui un metodo che esiste solo in Superhero
+    sup.boast()                 # => I wield the power of super strength!
+                                    # => I wield the power of bulletproofing!
 
-# Attributo di classe ereditato
-sup.age = 31
-print(sup.age)              # => 31
+    # Attributo di classe ereditato
+    sup.age = 31
+    print(sup.age)              # => 31
 
-# Attributo che esiste solo in Superhero
-print('Am I Oscar eligible? ' + str(sup.movie))
+    # Attributo che esiste solo in Superhero
+    print('Am I Oscar eligible? ' + str(sup.movie))
 ```
 
 

@@ -21,7 +21,7 @@ Ogni linguaggio di programmazione ha i suoi tipi di dati con le proprie particol
 * [Numeri decimali](41_Type_Number.md): numero in virgola mobile, indica il metodo di rappresentazione approssimata dei numeri reali
 * [Stringhe](42_Type_String.md): sequenze di caratteri (lettere, numeri e simboli) che formano un testo
 
-Esistoni inoltre molti tipi di dati complessi, dagli array agli oggetti, ma per il momento è meglio fermarsi a questi.
+Esistono inoltre molti tipi di dati complessi, dagli array agli oggetti, ma per il momento è meglio fermarsi a questi.
 
 
 ## Le variabili
@@ -34,30 +34,29 @@ Più o meno in tutti i linguaggi di programmazione, per assegnare un valore ad u
 nome="Pippo"
 ```
 
-In realtà **una variabile non è _il contenitore_ ma solo un soprannome che si dà ad una zona di memoria**. 
+In realtà **una variabile non è _il contenitore_ ma solo un soprannome che si dà ad una zona di memoria**.
 
-In Python, per gran parte dei tipi, assegnare un nuovo valore ad una variabile non vuol dire modificare il valore di una zona di memoria, ma far "puntare" il nostro "soprannome" ad una nuova zona di memoria con un nuovo contenuto.  
+In Python, per gran parte dei tipi, assegnare un nuovo valore ad una variabile non vuol dire modificare il valore di una zona di memoria, ma far "puntare" il nostro "soprannome" ad una nuova zona di memoria con un nuovo contenuto.
 Questa operazione è del tutto trasparente per il programmatore, ma è una cosa molto importante da sapere quando si realizzano programmi in cui le performance contano.
 
-_Per uteriori informazioni su questo argomento cercare in rete "[Python immutable types](https://www.google.it/search?q=python+immutable+types)"_
+_Per ulteriori informazioni su questo argomento cercare in rete "[Python immutable types](https://www.google.it/search?q=python+immutable+types)"_
 
 ### Nomi e convenzioni delle variabili
 
-In Python i nomi delle variabili possono essere di qualsiasi lunghezza e possono usare lettere maiuscole o minuscole, il carattere di sottolineatura `_`  e le cifre da 0 a 9. 
-I nomi delle variabili non possono iniziare con una cifra e non possono essere uguali alla parole riservate del linguaggio Python, come ad esempio `if`, `else`, `and`.
-I nomi delle variabili sono case sensitive, cioé i caratteri maiuscoli e quelli minuscoli sono considerati come se fossere due lettere differenti. Quindi `nome` e `Nome` sono considerate due variabili differenti.
+In Python i nomi delle variabili possono essere di qualsiasi lunghezza e possono usare lettere maiuscole o minuscole, il carattere di sottolineatura `_`  e le cifre da 0 a 9.
+I nomi delle variabili non possono iniziare con una cifra e non possono essere uguali alle parole riservate del linguaggio Python, come ad esempio `if`, `else`, `and`.
+I nomi delle variabili sono case sensitive, cioè i caratteri maiuscoli e quelli minuscoli sono considerati come se fossero due lettere differenti. Quindi `nome` e `Nome` sono considerate due variabili differenti.
 
-Infine, come convenzione per migliorare la leggibilità del codice, si suggerisce di dare alle variabili un **nome minuscolo con le eventuali parole separate dal carattere di sottolineatura `_`**. 
+Infine, come convenzione per migliorare la leggibilità del codice, si suggerisce di dare alle variabili un **nome minuscolo con le eventuali parole separate dal carattere di sottolineatura `_`**.
 
 
 ### Tipizzazione
 
-Il programma, quando viene eseguito, deve sapere quanto spazio di memoria dovrà "assegnare" ad una variabile. Lo spazio utilizzato da un numero intero è differente da quello utilizzato da una stringa. 
-Per questo molti linguaggi di programmazione necessitano che una variabile sia inizializzata, prima di essere utilizzata, assegnandogli un determinato tipo. Questi linguaggi si definiscono _tipizzati_.
+Il tipo di un dato determina quali operazioni si possono eseguire su di esso. Per esempio, sommare due numeri è diverso dal concatenare due stringhe.
 
-**Python è un linguaggio tipizzato dinamicamente**, non c'é bisogno di inizializzare una variabile prima di utilizzarla, è possibile cambiare tipo alla variabile in qualunque momento semplicemente assegnandogli un differente valore.
+**Python è un linguaggio tipizzato dinamicamente**: non serve dichiarare in anticipo il tipo di una variabile. Il tipo appartiene all’oggetto a cui il nome si riferisce, e lo stesso nome può essere associato successivamente a oggetti di tipo diverso. Prima di leggere una variabile, però, è necessario averle assegnato un valore.
 
-Di seguito assegnamo valori differenti alla variabile nome ed utiliziamo la funzione `type()` per vedere che cambia tipo senza alcun problema.
+Di seguito associamo al nome `nome` prima una stringa e poi un intero. Utilizziamo la funzione `type()` per conoscere il tipo dell’oggetto a cui si riferisce.
 
 ```python
 >>> nome="Pippo"
@@ -77,19 +76,19 @@ Di seguito assegnamo valori differenti alla variabile nome ed utiliziamo la funz
 ...
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
-NameError: name 'a' is not defined
+NameError: name 'my_var' is not defined
 ```
 
-**Importante**: qui sopra abbiamo anticipato un esempio di controllo `if` in cui c'é `my_var==2`. 
-Il doppio carattere uguale `==` è sempre un operatore di uguaglianza, non una assegnazione (vedere [operatori booleani]()).
+**Importante**: qui sopra abbiamo anticipato un esempio di controllo `if` in cui c’è `my_var==2`.
+Il doppio carattere uguale `==` è sempre un operatore di uguaglianza, non una assegnazione (vedere [operatori di confronto](43_Type_Boolean.md)).
 
 ### Casting
 
 Il _casting_ in programmazione è la conversione di un dato da un tipo ad un altro.
 
-Potremmo avere una variabile a cui è assegnato il valore `"123", anche se sembra un numero, come già suggeriscono le virgolette, in realtà si tratta di una stringa (magari acquisita tramite [input](25_Input.md).
+Potremmo avere una variabile a cui è assegnato il valore `"123"`, anche se sembra un numero, le virgolette indicano che è una stringa, magari acquisita tramite [input](25_Input.md).
 
-Se volessi trattare questo `"123"` come se fosse un numero, e sommargline ad esempio un altro, dovrei prima trasformalo in un intero. 
+Se volessi trattare questo `"123"` come se fosse un numero, e sommargline ad esempio un altro, dovrei prima trasformarlo in un intero.
 Per convertire in intero una stringa, o un float, si utilizza la funzione `int()`.
 
 ```
@@ -103,5 +102,5 @@ C'è una funzione di casting per ogni tipo di dato, molto usate sono, ad esempio
 ## Tutto è un oggetto
 
 Senza voler anticipare concetti troppo avanzati, sappi solo che in Python ogni tipo è un oggetto.
-Se in altri linguaggi una stringa è solo uno spazio contenente i byte relativi ai caratteri che la compongono, in Python è un oggetto più complesso con relativi medoti e proprietà.
+Se in altri linguaggi una stringa è solo uno spazio contenente i byte relativi ai caratteri che la compongono, in Python è un oggetto più complesso con relativi metodi e proprietà.
 

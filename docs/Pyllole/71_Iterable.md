@@ -13,7 +13,6 @@ L'oggetto restituito dalla funzione `range()` è un iterabile.
 0
 1
 2
-3
 ```
 
 Una lista, un set o le chiavi di un dizionario sono iterabili:

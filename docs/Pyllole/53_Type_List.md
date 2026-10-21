@@ -26,7 +26,7 @@ Si può aggiungere un valore alla fine della lista con append
 ```python
 >>> li.append(10)
 >>> li
-[7]
+[10]
 >>> li.append(20)
 >>> li.append(30)
 >>> li.append(40)

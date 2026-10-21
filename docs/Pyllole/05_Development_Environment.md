@@ -4,7 +4,7 @@
 ## L'editor di testo
 
 Il fondamentale, e più usato, strumento di ogni programmatore è l'_editor di testo_, un programma in grado di creare e modificare file,  testuali appunto, contenenti il codice sorgente dei programmi.
-Un file testuale è un file che contiente solo ed esclusivamente byte che verranno interpretati come caratteri di testo. 
+Un file testuale è un file che contiente solo ed esclusivamente byte che verranno interpretati come caratteri di testo.
 
 Un editori di testo non è un [IDE](#IDE), inizia a programmare con un semplice editor di testo e passa ad un [IDE](#IDE) solo quando avrai più esperienza.
 
@@ -15,10 +15,10 @@ Un editori di testo non è un [IDE](#IDE), inizia a programmare con un semplice 
 Naturalmente qualunque editor di testo in grado semplicemente di creare, aprire e modificare un file di testo ti permetterà di scrivere il tuo codice.
 Ci sono poi altre caratteristiche che ti renderanno la vita più semplice nelle ore che passerai a scrivere.
 
-* Funzioni di ricerca e sostituzione 
+* Funzioni di ricerca e sostituzione
 * Funzioni per tagliare, copiare e incollare
 vRappresentazione a colori ([syntax highlighting](https://it.wikipedia.org/wiki/Syntax_highlighting)) del codice
-* Possibilità di aggiungere funzionalità dell'editor tramite _plugin_ 
+* Possibilità di aggiungere funzionalità dell'editor tramite _plugin_
 * Personalizzazione (dimensione del carattere, combinazioni di colori, ecc)
 
 **Nota**: oggi è quasi obbligatorio che un editor di testo supporti la  [codifica UTF-8](https://it.wikipedia.org/wiki/UTF-8).
@@ -26,14 +26,14 @@ vRappresentazione a colori ([syntax highlighting](https://it.wikipedia.org/wiki/
 
 ### Linea di comando
 
-Se si programma per lavoro prima o poi Linux si dovrà utilizzare, per questo è fondamentale conoscere i suoi editor testuali da linea di comando: `vim` e `nano`.
+Lavorando su Linux può essere utile conoscere editor da terminale come `vim` e `nano`.
 
 Entrambi, funzionando in modalità testuale (non grafica) e possono sembrare un po' ostici. Tutti i comandi (esci, salva, cerca, ...) vengono attivati tramite combinazioni di tasti, il mouse, se siete fortunati, può essere utilizzato per selezionare un testo e copiarlo.
 
 Tra i due `nano` è probabilmente il più semplice, si scrive direttamente sul "foglio" e in una barra vengono indicati i comandi principali, con `^` che indica il tasto `ctrl` (`ctrl+x` esce, `ctrl+o` salva, `ctrl+w` cerca).
 
 
-### I più diffusi editor di testo (ambiente grafico) 
+### I più diffusi editor di testo (ambiente grafico)
 
 * [Sublime Text](https://www.sublimetext.com/)
 * [Atom](https://atom.io)
